@@ -106,17 +106,17 @@ or if you're Locally hosting, create a file named `.env` in the root directory a
 An example of `.env` file:
 
 ```sh
-API_ID = 789456
-API_HASH = ysx275f9638x896g43sfzx65
-BOT_TOKEN = 12345678:your_bot_token
-ULOG_CHANNEL = -100123456789
-FLOG_CHANNEL = -100123456789
-DATABASE_URL = mongodb://admin:pass@192.168.27.1
+API_ID = 25617967
+API_HASH = 10555bea1cdfc7d2303fc13b7fd187cc
+BOT_TOKEN = 7010247615:AAHKRvhOlRpP389jWz25jrTj5BM-byUq3pA
+ULOG_CHANNEL = -1002054249965
+FLOG_CHANNEL = -1002018451638
+DATABASE_URL = mongodb+srv://satyajeetkumarofficial:Guriya50@cluster0.dmmijuh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 FQDN = 192.168.27.1
 HAS_SSL = False
 MULTI_TOKEN1 = 12345678:bot_token_multi_client_1
 MULTI_TOKEN2 = 12345678:bot_token_multi_client_2
-OWNER_ID = 987456321
+OWNER_ID = 6567324192
 PORT = 8080
 ```
 </details>
